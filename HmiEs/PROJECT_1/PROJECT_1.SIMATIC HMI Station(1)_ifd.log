@@ -1,0 +1,28 @@
+﻿ES2RT linker log file created on dinsdag 11 december 2012 21:44:27
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ InvalidSizeOfScreenItem ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ DuplicateScreenItemName ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
+User Warning - Resource Id [ DuplicateScreenItemName ], caused in [ LinkerClass ]
+User Warning - Resource Id [ DuplicateScreenItemName ], caused in [ LinkerClass ]
+User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
+User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
+User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 19 warnings - succeeded.
+
+Writing "C:\Program Files\Siemens\Step7\S7Proj\Platfo_6\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1)"...
+Done.
