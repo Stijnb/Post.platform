@@ -1,13 +1,22 @@
-﻿ES2RT linker log file created on woensdag 12 december 2012 20:22:39
+﻿ES2RT linker log file created on donderdag 13 december 2012 15:57:29
 
 Linking...
 User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ InvalidSizeOfScreenItem ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ AnimationPropertyModificationWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
@@ -47,18 +56,8 @@ User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
 User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
 User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
 User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
-User Warning - Resource Id [ MissingTriggerTag ], caused in [ LinkerClass ]
 User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
-0 errors, 55 warnings - succeeded.
+0 errors, 54 warnings - succeeded.
 
 Writing "C:\Program Files\Siemens\Step7\S7Proj\Post.platform\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1)"...
 Done.
